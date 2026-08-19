@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, soy Alejandro 👋</h1>
-<h3 align="center">Finanzas & Negocios Digitales · IA · Fintech · Aprendiendo en público</h3>
+<h3 align="center">Finanzas & Negocios Digitales · IA · Fintech</h3>
 
 <p align="center">
   <img src="./assets/logo.png" width="280" alt="Logo Alejandro_Fintech_Lab" />
