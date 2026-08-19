@@ -18,9 +18,9 @@
 
 Soy Alejandro Ronquillo , estudiante de Finanzas y Negocios Digitales en Ecuador. Me obsesiona la intersección entre **tecnología, IA y finanzas** — no como espectador, sino construyendo cosas con eso.
 
-No soy un experto. Soy alguien que aprende en tiempo real y documenta el proceso — código, contenido y decisiones incluidas. Esa transparencia es el punto, no un disclaimer.
+No soy un experto. Soy alguien que aprende contigo — código, contenido y decisiones incluidas.
 
-A través de **Alejandro_Fintech_Lab** creo contenido educativo sobre IA aplicada, fintech y economía para audiencias LATAM de 18-30 años.
+A través de **Alejandro_Fintech_Lab** comparto mis experiencias y conocimiento sobre IA aplicada, fintech y economía para audiencias LATAM.
 
 ---
 
