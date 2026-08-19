@@ -16,7 +16,7 @@
 
 ### 🧠 Sobre mí
 
-Soy Josué Alejandro Ronquillo Villalba, estudiante de Finanzas y Negocios Digitales en Ecuador. Me obsesiona la intersección entre **tecnología, IA y finanzas** — no como espectador, sino construyendo cosas con eso.
+Soy Alejandro Ronquillo , estudiante de Finanzas y Negocios Digitales en Ecuador. Me obsesiona la intersección entre **tecnología, IA y finanzas** — no como espectador, sino construyendo cosas con eso.
 
 No soy un experto. Soy alguien que aprende en tiempo real y documenta el proceso — código, contenido y decisiones incluidas. Esa transparencia es el punto, no un disclaimer.
 
