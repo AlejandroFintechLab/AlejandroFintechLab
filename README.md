@@ -44,7 +44,7 @@ A través de **Alejandro_Fintech_Lab** comparto mis experiencias y conocimiento 
 
 | Pilar | Enfoque |
 |---|---|
-| 🤖 IA Aplicada | Herramientas, flujos, casos reales |
+| 🤖 Tech Aplicada | Herramientas, flujos, casos reales |
 | 🏢 Análisis de Empresas | Decisiones empresariales, reflexión crítica |
 | 💳 Fintech & Tendencias | Neobancos, cripto, regulación LATAM |
 | 📰 Noticias Económicas | Contexto oportuno, sin ruido |
